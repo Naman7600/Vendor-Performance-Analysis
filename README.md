@@ -324,6 +324,6 @@ Vendor-Performance-Analysis
 
 ## Author
 
-**Pranay Shah**
+**Naman Shah**
 
 If you found this project useful, consider giving it a ⭐.
